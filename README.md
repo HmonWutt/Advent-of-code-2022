@@ -1,23 +1,13 @@
 # Advent-of-code-2022
 
-Day one
+Day one: A quick solution using a for loop!
 
-A quick solution using a for loop!
-
-Day two
-
-For loop and a lot of if elses!
+Day two: For loop and a lot of if elses!
 
 Day three
 
-Day four
+Day four: For loop and a lot of if elses AGAIN!
 
-For loop and a lot of if elses AGAIN!
+Day five: Dictionaries
 
-Day five
-
-Dictionaries
-
-Day six
-
-Sets
+Day six: Sets
