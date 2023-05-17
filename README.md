@@ -11,3 +11,5 @@ Day four: For loop and a lot of if elses AGAIN!
 Day five: Dictionaries
 
 Day six: Sets
+
+Day seven: Dictionary, ordereddict
