@@ -13,3 +13,7 @@ Day five: Dictionaries
 Day six: Sets
 
 Day seven: Dictionary, ordereddict
+
+Day eight: numpy matrix
+
+
